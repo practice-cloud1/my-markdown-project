@@ -1,3 +1,2 @@
-# My Project Title
-
-This is a test update to trigger GitHub Actions.
+# My Markdown Project
+\n# Update\nThis is a test.
